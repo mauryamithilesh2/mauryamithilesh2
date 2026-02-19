@@ -1,4 +1,4 @@
-## Hi Mithilesh Maurya
+## Hi I'm Mithilesh Maurya
 
 Full-Stack Developer | Scalable Web Systems | Django & React | Exploring AI & Data Engineering 
 
@@ -39,7 +39,7 @@ Currently, I am expanding my knowledge in Artificial Intelligence, Machine Learn
 - Operating Systems
 - Computer Networks
 
-## 🚀 Featured Project
+##  Featured Project
 
 ### AI Resume Parsing System
 - Developed a backend system to extract structured data from resumes.
