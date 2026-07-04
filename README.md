@@ -1,59 +1,77 @@
-## Hi I'm Mithilesh Maurya
+# Hi, I'm Mithilesh Maurya 👋
 
-Full-Stack Developer | Scalable Web Systems | Django & React | Exploring AI & Data Engineering 
+### Software Engineer | Python Developer | Computer Vision | Deep Learning
 
-I am a Full-Stack Developer with strong backend expertise in Django and Django REST Framework.  
-I focus on building scalable, secure, and performance-optimized web systems with clean architecture and maintainable code.
-I have developed an AI-based Resume Parsing system that extracts structured information from resumes and processes data efficiently using backend-driven logic.
-Currently, I am expanding my knowledge in Artificial Intelligence, Machine Learning, and Data Engineering to integrate intelligent capabilities into scalable backend systems.
+Software Engineer with experience developing Python applications for industrial computer vision and automation. My work focuses on building desktop applications, computer vision workflows, image processing pipelines, annotation tools, dataset management, AI model training workflows, and visual inspection software for manufacturing environments.
 
-## Tech Stack
+Alongside hands-on software development, I continue to expand my expertise in Deep Learning, Computer Vision, and modern AI technologies while building practical, production-oriented solutions.
 
-### Backend
-- Python
-- Django
-- Django REST Framework
-- PostgreSQL
-- JWT Authentication
-- REST API Design
-- Query Optimization (`select_related`, `prefetch_related`)
+---
 
-### Frontend
-- React
-- JavaScript
-- HTML
-- CSS
+## 💻 Tech Stack
 
-### Data & AI
-- NumPy
-- Pandas
-- pyspark
-- NLP
-- Basic Machine Learning Concepts
-- Data Processing Fundamentals
+### Languages
 
-### Core CS Knowledge
-- Data Structures & Algorithms
-- DBMS
-- OOPs
-- Operating Systems
-- Computer Networks
+* Python
+* C++
+* JavaScript
 
-##  Featured Project
+### Computer Vision & AI
 
-### AI Resume Parsing System
-- Developed a backend system to extract structured data from resumes.
-- Implemented authentication and secure API endpoints.
-- Designed scalable API architecture.
-- Optimized database queries for performance.
-- Maintained modular and clean code structure.
+* OpenCV
+* Ultralytics YOLO
+* Deep Learning
+* Image Processing
+* NumPy
+* Pandas
 
-## 📈 What I Focus On
+### Desktop Development
 
-- Writing clean and maintainable production-ready code
-- Designing scalable REST APIs
-- Backend performance optimization
-- Strengthening problem-solving skills through DSA
-- Exploring AI & Data Engineering concepts
+* PySide6 (Qt)
 
-Building scalable systems with a focus on performance, reliability, and continuous improvement.
+### Backend Development
+
+* Django
+* Django REST Framework
+* REST APIs
+* PostgreSQL
+
+### Tools
+
+* Git
+* GitHub
+* Postman
+
+### Core Computer Science
+
+* Data Structures & Algorithms
+* Object-Oriented Programming
+* DBMS
+* Operating Systems
+* Computer Networks
+
+---
+
+## 🚀 Current Focus
+
+* Industrial Computer Vision
+* Python Software Development
+* AI Model Training Workflows
+* Image Processing & Annotation Systems
+* Desktop Application Development
+* Deep Learning & Modern AI
+
+---
+
+## 📌 Areas of Interest
+
+* Artificial Intelligence
+* Computer Vision
+* Industrial Automation
+* Backend Engineering
+* Software Architecture
+* Performance Optimization
+
+---
+
+> *Building reliable software that bridges Python, Computer Vision, and Artificial Intelligence for real-world industrial applications.*
